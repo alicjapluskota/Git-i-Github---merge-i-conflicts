@@ -1,0 +1,13 @@
+# Podstawy Git
+
+## Co to jest Git
+Git to system kontroli wersji służący do śledzenia zmian w plikach.
+
+## Repozytorium
+Repozytorium to folder projektu śledzony przez Git.
+
+## Commit
+Commit zapisuje zmiany w historii projektu.
+
+## README
+Plik README opisuje projekt.
