@@ -1,0 +1,12 @@
+# Branche w Git
+
+## Co to jest branch
+Branch to oddzielna linia rozwoju projektu.
+
+## main
+Główny branch projektu.
+
+## Po co używać branchy
+- testowanie zmian
+- praca zespołowa
+- brak ryzyka zepsucia main
