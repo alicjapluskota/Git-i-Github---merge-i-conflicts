@@ -1,0 +1,9 @@
+# Pull Request
+
+Pull Request to prośba o połączenie zmian z jednego brancha do drugiego.
+
+## Etapy
+1. Tworzymy branch
+2. Wprowadzamy zmiany
+3. Tworzymy Pull Request
+4. Merge zmian do main
