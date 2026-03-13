@@ -1,6 +1,6 @@
 # Notatki z lekcji Git
 
-![Avatar](/avatar-Git_basic.png)
+![Avatar](/avatar-Git-basic.png)
 
 Repozytorium zawiera moje notatki z zajęć o Git i GitHub, w tym podstawy, branche, pull requesty i zarządzanie repozytoriami zdalnymi.  
 
